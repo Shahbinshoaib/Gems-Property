@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858858762519",
+    "firebase_url": "https://gems-property.firebaseio.com",
+    "project_id": "gems-property",
+    "storage_bucket": "gems-property.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858858762519:android:864e3be602203ac5280752",
+        "android_client_info": {
+          "package_name": "com.app.gemsproperty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858858762519-7o0sjcgp30a7efv1qiqh80ol7erfu5i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gemsproperty",
+            "certificate_hash": "3711137ea24ee76e33b029c653281c201baf801d"
+          }
+        },
+        {
+          "client_id": "858858762519-kviqvc5t5n30cbcta4ds8i7f7vuasfoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITynYqZPoclpgaHgB6HVdbp6vkrQKWvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858858762519-kviqvc5t5n30cbcta4ds8i7f7vuasfoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
